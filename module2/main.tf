@@ -1,0 +1,2 @@
+variable "m2" {
+}
