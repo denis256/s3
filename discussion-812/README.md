@@ -1,6 +1,0 @@
-
-```
-cd app
-terragrunt validate 
-```
-

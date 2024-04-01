@@ -1,5 +1,0 @@
-variables:
-  - name: project_name
-    description: Project name
-  - name: description
-    description: descriptions

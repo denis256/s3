@@ -1,6 +1,0 @@
-
-```
-cd demo
-terragrunt validate
-
-```

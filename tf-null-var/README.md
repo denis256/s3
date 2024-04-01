@@ -1,5 +1,0 @@
-# tfvars loading
-
-```
-terraform apply
-```

@@ -1,4 +1,0 @@
-
-```
-terragrunt run-all apply
-```

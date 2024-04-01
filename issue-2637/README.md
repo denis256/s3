@@ -1,5 +1,0 @@
-
-```
-terragrunt run-all plan
-
-```

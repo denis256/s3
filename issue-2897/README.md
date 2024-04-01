@@ -1,4 +1,0 @@
-
-```
-terragrunt apply
-```

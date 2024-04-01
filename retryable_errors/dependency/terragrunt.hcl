@@ -1,5 +1,0 @@
-
-retryable_errors = [
-  "qwe"
-]
-
